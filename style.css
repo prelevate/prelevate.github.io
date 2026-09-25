@@ -66,6 +66,7 @@ nav {
     letter-spacing: 1.5px;
     color: var(--primary); 
     text-transform: uppercase;
+    display: none;
 }
 
 nav ul { 
